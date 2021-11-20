@@ -1,6 +1,6 @@
 package com.example.mvvmroom
 
-// MVVM with Room Database ->
+/* MVVM with Room Database ->
 
 1. Entity = it is similar to normal model class.It use to create tables in database.
             Each property in the class represent column in table.
@@ -14,4 +14,4 @@ package com.example.mvvmroom
                 from a network or use results cached in a local database.
 
 5. ViewModel = it is use to show the queries for those data which are to be
-               displayed in view, i.e recyclerview.
+               displayed in view, i.e recyclerview. */

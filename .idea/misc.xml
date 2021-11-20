@@ -23,6 +23,8 @@
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/layout/s3_dialog_add_shopping_item.xml" value="0.19333333333333333" />
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/layout/s3_note_element.xml" value="0.19635416666666666" />
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/layout/s3_shopping_item.xml" value="0.19333333333333333" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/layout/s4_activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/layout/s4_each_row.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/menu/add_note_menu.xml" value="0.19635416666666666" />
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/menu/another_menu.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/menu/main_menu.xml" value="0.19635416666666666" />
@@ -30,9 +32,6 @@
         <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRoom/app/src/main/res/menu/toolbar_menu.xml" value="0.19333333333333333" />
       </map>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/mvvmroom/Concept Of MVVM.kt" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
