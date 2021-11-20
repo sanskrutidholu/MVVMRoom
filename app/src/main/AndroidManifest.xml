@@ -10,9 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MVVMRoom">
         <activity
-            android:name=".sample_2.MainActivity"
-            android:exported="true">
+            android:name=".sample_3.AddNoteActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat"/>
+        <activity
+            android:name=".sample_3.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
+        <activity
+            android:name=".sample_2.MainActivity"
+            android:exported="true" />
         <activity
             android:name=".sample_1.UpdateActivity"
             android:exported="false" />
